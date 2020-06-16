@@ -307,7 +307,7 @@ for i in range(n):
             s += 1
         else:
             print(' ', end='')
-        print()
+    print()
 
 
 
